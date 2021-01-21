@@ -17,8 +17,18 @@ public class Sample {
 
 	}
 	 private void done() {
-		// TODO Auto-generated method stub
+		 		// TODO Auto-generated method stub
 
-	}
+		 	}
+	 private void quit() {
+			// TODO Auto-generated method stub
 
-}
+		}
+		 private void end() {
+			 }
+		 }
+		 
+	
+
+
+
