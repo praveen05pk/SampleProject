@@ -16,13 +16,19 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
-	private void quit() {
-		// TODO Auto-generated method stub
+	 private void done() {
+		 		// TODO Auto-generated method stub
 
-	}
-	 private void end() {
-		// TODO Auto-generated method stub
+		 	}
+	 private void quit() {
+			// TODO Auto-generated method stub
 
-	}
+		}
+		 private void end() {
+			 }
+		 }
+		 
+	
 
-}
+
+
